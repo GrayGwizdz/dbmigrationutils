@@ -1,0 +1,1 @@
+{"displayName": "teste1group", "members": [{"display": "", "value": "100004", "$ref": "https://dbc-c72ec66c-c75e.cloud.databricks.com/api/2.0/scim/v2/Users/100004", "userName": "gray.gwizdz+dnbaws@databricks.com", "type": "user"}], "groups": [], "id": "100007"}

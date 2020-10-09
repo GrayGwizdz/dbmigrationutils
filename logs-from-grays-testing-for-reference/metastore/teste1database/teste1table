@@ -1,0 +1,7 @@
+CREATE TABLE `teste1database`.`teste1table` (`instant` INT, `dteday` STRING, `season` INT, `yr` INT, `mnth` INT, `holiday` INT, `weekday` INT, `workingday` INT, `weathersit` INT, `temp` DOUBLE, `atemp` DOUBLE, `hum` DOUBLE, `windspeed` DOUBLE, `casual` INT, `registered` INT, `cnt` INT)
+USING CSV
+OPTIONS (
+  `mode` 'PERMISSIVE',
+  `header` 'true',
+  path 'dbfs:/databricks-datasets/bikeSharing/data-001'
+)

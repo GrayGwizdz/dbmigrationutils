@@ -1,0 +1,87 @@
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/CreateExampleMetastoreEntry", "object_id": 2039}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Version-3.1.3-IL", "object_id": 652}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Scala/Delta Review Questions", "object_id": 58}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Scala/Delta 01 - Introducing Delta", "object_id": 69}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Scala/Delta 03 - Append", "object_id": 279}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Scala/Delta 04 - Upsert", "object_id": 333}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Scala/Delta 99 - Capstone Project", "object_id": 382}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Scala/Delta 05 - Streaming", "object_id": 429}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Scala/Delta 07 - Architecture", "object_id": 470}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Scala/Delta 06 - Optimization", "object_id": 510}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Scala/Delta 02 - Create", "object_id": 564}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Scala/Delta 08 - Time Travel", "object_id": 619}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Scala/Includes/Classroom-Cleanup", "object_id": 81}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Scala/Includes/Classroom-Setup", "object_id": 84}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Scala/Includes/Common-Notebooks/Utility-Methods", "object_id": 89}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Scala/Includes/Common-Notebooks/Dummy-Data-Generator-Test", "object_id": 92}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Scala/Includes/Common-Notebooks/Assertion-Utils", "object_id": 103}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Scala/Includes/Common-Notebooks/Class-Utility-Methods", "object_id": 105}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Scala/Includes/Common-Notebooks/Class-Utility-Methods-Test", "object_id": 107}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Scala/Includes/Common-Notebooks/Utility-Methods-Test", "object_id": 143}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Scala/Includes/Common-Notebooks/Assertion-Utils-Test", "object_id": 159}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Scala/Includes/Common-Notebooks/Common-Test", "object_id": 185}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Scala/Includes/Common-Notebooks/Dummy-Data-Generator", "object_id": 190}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Scala/Includes/Common-Notebooks/Dataset-Mounts", "object_id": 192}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Scala/Includes/Common-Notebooks/Dataset-Mounts-Test", "object_id": 195}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Scala/Includes/Common-Notebooks/Common", "object_id": 206}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Scala/Extra/Delta 01E - RW-Options", "object_id": 217}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Scala/Extra/Delta 02E - Time Travel - wML", "object_id": 221}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Scala/_DOCS/Agenda (1-Day)", "object_id": 466}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Python/Delta 03 - Append", "object_id": 655}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Python/Delta 99 - Capstone Project", "object_id": 771}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Python/Delta 04 - Upsert", "object_id": 818}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Python/Delta 02 - Create", "object_id": 867}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Python/Delta 01 - Introducing Delta", "object_id": 922}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Python/Delta 06 - Optimization", "object_id": 933}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Python/Delta 07 - Architecture", "object_id": 987}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Python/Delta 08 - Time Travel", "object_id": 1167}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Python/Delta Review Questions", "object_id": 1200}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Python/Delta 05 - Streaming", "object_id": 1212}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Python/Extra/Delta 02E - Time Travel - wML", "object_id": 710}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Python/Extra/Delta 01E - RW-Options", "object_id": 767}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Python/_DOCS/Agenda (1-Day)", "object_id": 1028}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Python/Includes/Classroom-Cleanup", "object_id": 1033}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Python/Includes/Classroom-Setup", "object_id": 1036}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Python/Includes/Common-Notebooks/Utility-Methods-Test", "object_id": 1041}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Python/Includes/Common-Notebooks/Class-Utility-Methods-Test", "object_id": 1057}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Python/Includes/Common-Notebooks/Dataset-Mounts", "object_id": 1094}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Python/Includes/Common-Notebooks/Assertion-Utils-Test", "object_id": 1097}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Python/Includes/Common-Notebooks/Common-Test", "object_id": 1122}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Python/Includes/Common-Notebooks/Dummy-Data-Generator-Test", "object_id": 1127}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Python/Includes/Common-Notebooks/Dataset-Mounts-Test", "object_id": 1136}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Python/Includes/Common-Notebooks/Assertion-Utils", "object_id": 1147}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Python/Includes/Common-Notebooks/Dummy-Data-Generator", "object_id": 1149}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Python/Includes/Common-Notebooks/Common", "object_id": 1151}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Python/Includes/Common-Notebooks/Class-Utility-Methods", "object_id": 1162}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Delta-3.1.3-IL/Python/Includes/Common-Notebooks/Utility-Methods", "object_id": 1164}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Structured-Streaming-1.2.4-IL/Version-1.2.4-IL", "object_id": 1955}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Structured-Streaming-1.2.4-IL/Scala/SS 03 - Time Windows", "object_id": 1264}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Structured-Streaming-1.2.4-IL/Scala/SS 01 - Introduction", "object_id": 1307}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Structured-Streaming-1.2.4-IL/Scala/SS 04 - Using Kafka", "object_id": 1323}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Structured-Streaming-1.2.4-IL/Scala/SS 99 - Twitter Capstone", "object_id": 1359}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Structured-Streaming-1.2.4-IL/Scala/SS 02 - Streaming Concepts", "object_id": 1407}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Structured-Streaming-1.2.4-IL/Scala/SS 05 - Using Event Hubs", "object_id": 1563}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Structured-Streaming-1.2.4-IL/Scala/Includes/Test-Library", "object_id": 1251}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Structured-Streaming-1.2.4-IL/Scala/Includes/Classroom-Setup", "object_id": 1254}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Structured-Streaming-1.2.4-IL/Scala/Includes/Dataset-Mounts", "object_id": 1260}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Structured-Streaming-1.2.4-IL/Scala/Labs/SS 02 - Streaming Concepts Lab", "object_id": 1457}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Structured-Streaming-1.2.4-IL/Scala/Labs/SS 03 - Time Windows Lab", "object_id": 1485}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Structured-Streaming-1.2.4-IL/Scala/Labs/SS 04 - Using Kafka Lab", "object_id": 1505}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Structured-Streaming-1.2.4-IL/Scala/Labs/SS 05 - Using Event Hubs Lab", "object_id": 1529}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Structured-Streaming-1.2.4-IL/Python/SS 02 - Streaming Concepts", "object_id": 1603}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Structured-Streaming-1.2.4-IL/Python/SS 04 - Using Kafka", "object_id": 1652}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Structured-Streaming-1.2.4-IL/Python/SS 01 - Introduction", "object_id": 1688}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Structured-Streaming-1.2.4-IL/Python/SS 03 - Time Windows", "object_id": 1704}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Structured-Streaming-1.2.4-IL/Python/SS 99 - Twitter Capstone", "object_id": 1747}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Structured-Streaming-1.2.4-IL/Python/SS 05 - Using Event Hubs", "object_id": 1902}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Structured-Streaming-1.2.4-IL/Python/Labs/SS 05 - Using Event Hubs Lab", "object_id": 1796}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Structured-Streaming-1.2.4-IL/Python/Labs/SS 04 - Using Kafka Lab", "object_id": 1830}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Structured-Streaming-1.2.4-IL/Python/Labs/SS 03 - Time Windows Lab", "object_id": 1854}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Structured-Streaming-1.2.4-IL/Python/Labs/SS 02 - Streaming Concepts Lab", "object_id": 1874}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Structured-Streaming-1.2.4-IL/Python/Includes/Test-Library", "object_id": 1942}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Structured-Streaming-1.2.4-IL/Python/Includes/Dataset-Mounts", "object_id": 1945}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Structured-Streaming-1.2.4-IL/Python/Includes/Classroom-Setup", "object_id": 1949}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Testing/DisplayMatPlotLib", "object_id": 9}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Testing/DisplayGGPlot", "object_id": 24}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Testing/TestOutbound", "object_id": 30}
+{"path": "/Users/gray.gwizdz+dnbaws@databricks.com/Testing/TestLocalLibInstall", "object_id": 36}
